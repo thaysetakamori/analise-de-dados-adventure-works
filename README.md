@@ -1,7 +1,7 @@
 # 📊 Análise de Dados - Adventure Works
 Este repositório apresenta uma análise de dados realizada com base nas vendas e desempenho da empresa fictícia Adventure Works. O dashboard foi desenvolvido utilizando dados de diferentes períodos e dimensões, com o objetivo de extrair insights e facilitar a tomada de decisões.
 
-## Processo de Análise
+## 🔍 Processo de Análise
 Antes de realizar a análise e a construção dos painéis, foi realizada a etapa de **ETL** (Extract, Transform, Load), que incluiu:
 
 - **Extração**: conectar a um banco de dados SQL Server e importar as tabelas necessárias.
@@ -10,7 +10,7 @@ Antes de realizar a análise e a construção dos painéis, foi realizada a etap
 
 Essa preparação foi essencial para garantir a qualidade e confiabilidade dos dados analisados.
 
-## 🔍 Resumo do Relatório
+## 📈 Resumo do Relatório
 
 **Visão Geral**<br>
 A página inicial oferece uma visão geral das vendas e lucros da Adventure Works. O gráfico de colunas e linha apresenta a evolução mensal das vendas e da margem de lucro, enquanto outros gráficos destacam as vendas por país e categoria. "Clothing" e "Bikes" aparecem como as categorias mais vendidas, com forte concentração de vendas nos Estados Unidos.<br><br>
